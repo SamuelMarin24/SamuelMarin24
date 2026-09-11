@@ -6,10 +6,10 @@ Actualmente soy practicante de desarrollo de software en el área de Datos y Ana
 
 ### 🔧 Con lo que trabajo
 
-**Lenguajes:** Python · SQL · HTML/CSS · JavaScript
-**Librerías y frameworks:** Flask · pandas · openpyxl
-**Datos:** SQL Server · SQLite · Excel (automatización con openpyxl)
-**Otros:** Git · Batch · Programador de tareas de Windows · Google Apps Script
+- **Lenguajes:** Python · SQL · HTML/CSS · JavaScript
+- **Librerías y frameworks:** Flask · CustomTkinter · pandas · openpyxl
+- **Datos:** SQL Server · SQLite · Excel (automatización con openpyxl)
+- **Otros:** Git · Batch · Programador de tareas de Windows · Google Apps Script
 
 ### 📌 Proyectos destacados
 
@@ -17,6 +17,8 @@ Actualmente soy practicante de desarrollo de software en el área de Datos y Ana
 |---|---|
 | [registro-paros-planta](https://github.com/SamuelMarin24/registro-paros-planta) | App web en Flask para que los inspectores registren paradas de máquina en tiempo real desde la planta |
 | [reporte-diario-maquinas](https://github.com/SamuelMarin24/reporte-diario-maquinas) | Automatización que valida los registros diarios de producción y genera un informe de novedades en Excel |
+| [registro-produccion-planta](https://github.com/SamuelMarin24/registro-produccion-planta) | App de escritorio para registrar producción por máquina, con un consolidador que evita corromper el archivo compartido |
+| [programacion-planta](https://github.com/SamuelMarin24/programacion-planta) | Tablero para programar las órdenes de producción por máquina y medir el cumplimiento al cerrarlas |
 
 ### 🌱 En lo que estoy ahora
 
