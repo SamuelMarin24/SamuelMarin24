@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hola, soy Samuel 👋
 
-<!--
-**SamuelMarin24/SamuelMarin24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería de Sistemas en Medellín, Colombia. Me dedico a construir **automatizaciones y aplicaciones internas** que le quitan trabajo manual a la gente: procesos que antes tomaban horas de revisar Excel a mano y ahora corren solos.
 
-Here are some ideas to get you started:
+Actualmente soy practicante de desarrollo de software en el área de Datos y Analítica de una empresa manufacturera, donde he construido aplicaciones web para registro en planta, validadores de calidad de datos y procesos programados que alimentan bases históricas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Con lo que trabajo
+
+**Lenguajes:** Python · SQL · HTML/CSS · JavaScript
+**Librerías y frameworks:** Flask · pandas · openpyxl
+**Datos:** SQL Server · SQLite · Excel (automatización con openpyxl)
+**Otros:** Git · Batch · Programador de tareas de Windows · Google Apps Script
+
+### 📌 Proyectos destacados
+
+| Proyecto | De qué se trata |
+|---|---|
+| [registro-paros-planta](https://github.com/SamuelMarin24/registro-paros-planta) | App web en Flask para que los inspectores registren paradas de máquina en tiempo real desde la planta |
+| [reporte-diario-maquinas](https://github.com/SamuelMarin24/reporte-diario-maquinas) | Automatización que valida los registros diarios de producción y genera un informe de novedades en Excel |
+
+### 🌱 En lo que estoy ahora
+
+Profundizando en SQL, Git y desarrollo backend, con interés en automatización de procesos e IA aplicada a problemas reales de negocio.
+
+### 📫 Contacto
+
+[LinkedIn](https://www.linkedin.com/in/samuel-marin-peña-18bb743b7) · samuelmarinpena655@gmail.com
