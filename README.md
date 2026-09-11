@@ -13,7 +13,7 @@ Actualmente soy practicante de desarrollo de software en el área de Datos y Ana
 
 ### 📌 Proyectos destacados
 
-| Proyecto | De qué se trata |
+| Proyecto | De qué se trata | 
 |---|---|
 | [registro-paros-planta](https://github.com/SamuelMarin24/registro-paros-planta) | App web en Flask para que los inspectores registren paradas de máquina en tiempo real desde la planta |
 | [reporte-diario-maquinas](https://github.com/SamuelMarin24/reporte-diario-maquinas) | Automatización que valida los registros diarios de producción y genera un informe de novedades en Excel |
