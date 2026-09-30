@@ -20,6 +20,7 @@ Actualmente soy practicante de desarrollo de software en el área de Datos y Ana
 | [registro-produccion-planta](https://github.com/SamuelMarin24/registro-produccion-planta) | App de escritorio para registrar producción por máquina, con un consolidador que evita corromper el archivo compartido |
 | [programacion-planta](https://github.com/SamuelMarin24/programacion-planta) | Tablero para programar las órdenes de producción por máquina y medir el cumplimiento al cerrarlas |
 | [api-ordenes-produccion](https://github.com/SamuelMarin24/api-ordenes-produccion) | API REST en FastAPI que expone las órdenes de producción de un ERP, con caché en memoria y tolerancia a caídas de la base |
+| [explorador-scripts-planta](https://github.com/SamuelMarin24/explorador-scripts-planta) | Explorador de archivos web en Flask con ejecución remota de scripts y protección contra salida de directorio |
 
 ### 🌱 En lo que estoy ahora
 
